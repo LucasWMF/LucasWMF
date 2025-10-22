@@ -1,4 +1,10 @@
-## Olá meu nome é Lucas👋
+# Olá meu nome é Lucas👋
+### Contatos
+
+<p align="left">
+  LinkedIn: <a href="https://www.linkedin.com/in/lucas-wagner-melo-fogaça-02673b297" target="_blank">linkedin.com/in/lucas-wagner-melo-fogaça-02673b297</a><br>
+  Gmail: lucas.melofogac@gmail.com
+</p>
 
 <!--
 **LucasWMF/LucasWMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
