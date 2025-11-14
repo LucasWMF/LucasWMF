@@ -2,7 +2,7 @@
 ### Contatos
 
 <p align="left">
-  LinkedIn: <a href="https://www.linkedin.com/in/lucas-wagner-melo-fogaça-02673b297" target="_blank">linkedin.com/in/lucas-wagner-melo-fogaça-02673b297</a><br>
+  LinkedIn: <a href="www.linkedin.com/in/lucaswagnermelofogaca" target="_blank">www.linkedin.com/in/lucaswagnermelofogaca</a><br>
   Gmail: lucas.melofogac@gmail.com
 </p>
 
