@@ -1,8 +1,21 @@
-# Olá meu nome é Lucas👋
+# Olá, meu nome é Lucas 👋
 ### Contatos
 
+<script>
+  let dados = {
+    link: "https://www.linkedin.com/in/lucas-wmf"
+  };
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const linkElement = document.getElementById("linkedin-link");
+    linkElement.href = dados.link;
+    linkElement.textContent = dados.link.replace("https://", "");
+  });
+</script>
+
 <p align="left">
-  Linkedin: <a href="www.linkedin.com/in/lucaswagnermelofogaca" target="_blank">www.linkedin.com/in/lucaswagnermelofogaca</a><br>
+  Linkedin: 
+  <a id="linkedin-link" href="#" target="_blank"></a><br>
 </p>
 
 <!--
